@@ -38,14 +38,3 @@ Estamos sempre trabalhando para melhorar a aplicação e trazer mais funcionalid
 Se você é um desenvolvedor e quer ajudar a melhorar a aplicação, fique à vontade para contribuir com o código! Basta acessar o repositório no GitHub e enviar um pull request.
 
 **Vamos juntos fazer dessa aplicação a maior referência sobre pilotos brasileiros de Fórmula 1 na internet!** 
-
-**Observações:**
-
-* **Personalize:** Adapte este README para o seu projeto, incluindo informações mais específicas sobre a sua aplicação.
-* **Imagens:** Adicione imagens para deixar o README mais atrativo.
-* **Links:** Inclua links para o repositório do GitHub e para a aplicação online.
-* **Linguagem:** Use uma linguagem clara e objetiva, evitando termos técnicos demais.
-* **Humor:** Adicione um toque de humor para deixar o README mais divertido e interessante.
-
-Com este README, você terá um guia completo e informativo para sua aplicação, além de atrair a atenção de outros desenvolvedores e entusiastas da Fórmula 1.
-```
