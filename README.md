@@ -1,7 +1,5 @@
-```markdown
-## **README.md Descontraído para sua Aplicação de Pilotos de F1**
 
-### ️ **Pilotos Brasileiros F1: A Sua Central de Informações sobre os Ases do Volante!**
+### ️ **Pilotos Brasileiros F1: A Sua Central de Informações sobre os Ases do Volante! - Imersão Dev com o Google Gemini.**
 
 **O que faz essa aplicação?**
 
